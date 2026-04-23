@@ -2,7 +2,7 @@
 
 | How to Build             | Details                            |
 |--------------------------|------------------------------------|
-| Point of Sale sync       | <references/pint-of-sale-guide.md> |
+| Point of Sale sync       | <references/point-of-sale-guide.md> |
 
 ## Authentication
 
